@@ -107,7 +107,7 @@ header a {
         height: 100vh;
 
         padding: 10px;;
-        background: #000000;
+        background: #1b1919;
         
         transition: transform 0.4s;
         transform: translateX(0px);
