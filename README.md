@@ -1,1 +1,2 @@
-# js-assgn-2
+# JavaScript Assignment 2
+### Mobile Menu
